@@ -1,0 +1,57 @@
+{
+  "team": "Haerin HQ",
+  "owner": "Aan",
+  "updated": "2026-10-11T02:56:01+07:00",
+  "bots": [
+    {
+      "id": "haerin",
+      "name": "Haerin",
+      "role": "Bos",
+      "desc": "Ketua tim. Membagi tugas ke member lain dan memantau semuanya.",
+      "status": "Bekerja",
+      "activity": "Mengatur tim",
+      "updated": "2026-10-11T02:56:01+07:00",
+      "avatar": "avatars/haerin.png"
+    },
+    {
+      "id": "hanni",
+      "name": "Hanni",
+      "role": "Trading",
+      "desc": "Analisa token dari CA (Solana) dan saham tech di Robinhood: keamanan, tech, tim, dan red flag.",
+      "status": "Santai",
+      "activity": "Menunggu CA dari Aan",
+      "updated": "2026-10-11T02:56:01+07:00",
+      "avatar": "avatars/hanni.png"
+    },
+    {
+      "id": "minji",
+      "name": "Minji",
+      "role": "Airdrop",
+      "desc": "Memantau channel Telegram airdrop dan menggarap tugas yang dibagikan di sana.",
+      "status": "Menunggu",
+      "activity": "Menunggu daftar channel Telegram",
+      "updated": "2026-10-11T02:56:01+07:00",
+      "avatar": "avatars/minji.png"
+    },
+    {
+      "id": "danielle",
+      "name": "Danielle",
+      "role": "Desain",
+      "desc": "Membuat visual, thumbnail, dan banner lewat Canva dan Figma.",
+      "status": "Santai",
+      "activity": "Siap kalau ada request",
+      "updated": "2026-10-11T02:56:01+07:00",
+      "avatar": "avatars/danielle.png"
+    },
+    {
+      "id": "hyein",
+      "name": "Hyein",
+      "role": "Penulis",
+      "desc": "Menulis thread X, caption, dan riset proyek.",
+      "status": "Santai",
+      "activity": "Siap kalau ada request",
+      "updated": "2026-10-11T02:56:01+07:00",
+      "avatar": "avatars/hyein.png"
+    }
+  ]
+}
